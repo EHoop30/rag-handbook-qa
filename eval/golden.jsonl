@@ -1,0 +1,18 @@
+{"question": "How many PTO days do I get in my first year?", "expected_doc_id": "pto-and-leave", "reference_answer": "15 days of PTO per year during the first three years.", "answer_contains": ["15"]}
+{"question": "How many vacation days can I carry over to next year?", "expected_doc_id": "pto-and-leave", "reference_answer": "Up to 5 unused PTO days may be carried over.", "answer_contains": ["5"]}
+{"question": "How much paid parental leave does the company offer?", "expected_doc_id": "pto-and-leave", "reference_answer": "12 weeks of fully paid parental leave.", "answer_contains": ["12 weeks"]}
+{"question": "How many paid company holidays are there each year?", "expected_doc_id": "pto-and-leave", "reference_answer": "11 paid company holidays.", "answer_contains": ["11"]}
+{"question": "How many paid sick days do I get?", "expected_doc_id": "pto-and-leave", "reference_answer": "10 days of paid sick leave per calendar year.", "answer_contains": ["10"]}
+{"question": "When can I start working remotely?", "expected_doc_id": "remote-work-policy", "reference_answer": "After completing 90 days of employment.", "answer_contains": ["90 days"]}
+{"question": "What are the company core hours?", "expected_doc_id": "remote-work-policy", "reference_answer": "10:00 AM to 3:00 PM Eastern Time.", "answer_contains": ["10", "3"]}
+{"question": "How much is the home office stipend?", "expected_doc_id": "remote-work-policy", "reference_answer": "A one-time $500 home office stipend.", "answer_contains": ["500"]}
+{"question": "Do I need to use a VPN when working remotely?", "expected_doc_id": "remote-work-policy", "reference_answer": "Yes, remote employees must connect through the company VPN.", "answer_contains": ["VPN"]}
+{"question": "Do I need a receipt for a $40 work expense?", "expected_doc_id": "expenses-and-travel", "reference_answer": "No. Expenses under $75 do not require a receipt.", "answer_contains": ["75"]}
+{"question": "What is the mileage reimbursement rate?", "expected_doc_id": "expenses-and-travel", "reference_answer": "$0.67 per mile for approved business travel.", "answer_contains": ["0.67"]}
+{"question": "What is the meal per diem for domestic travel?", "expected_doc_id": "expenses-and-travel", "reference_answer": "$65 per day for domestic travel.", "answer_contains": ["65"]}
+{"question": "How many days do I have to submit an expense?", "expected_doc_id": "expenses-and-travel", "reference_answer": "Expenses must be submitted within 30 days of purchase.", "answer_contains": ["30 days"]}
+{"question": "What is the minimum password length?", "expected_doc_id": "security-and-devices", "reference_answer": "At least 14 characters.", "answer_contains": ["14"]}
+{"question": "Where should API keys and production credentials be stored?", "expected_doc_id": "security-and-devices", "reference_answer": "In the company secrets manager, never in code or config.", "answer_contains": ["secrets manager"]}
+{"question": "How quickly must I report a security incident?", "expected_doc_id": "security-and-devices", "reference_answer": "Within 1 hour of discovery.", "answer_contains": ["1 hour"]}
+{"question": "What is the 401k match?", "expected_doc_id": "benefits-and-401k", "reference_answer": "100 percent of contributions up to 4 percent of salary, immediately vested.", "answer_contains": ["4"]}
+{"question": "When does my health insurance become effective?", "expected_doc_id": "benefits-and-401k", "reference_answer": "The first day of the month following the start date.", "answer_contains": ["first"]}
