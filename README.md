@@ -66,8 +66,7 @@ the retrieval and Claude Haiku writes the answers. Everything else is identical.
 
 ## The evaluation harness
 
-This is the part most RAG demos skip. `eval/golden.jsonl` is a set of questions,
-each labeled with the document that should answer it and the ground-truth fact.
+`eval/golden.jsonl` is a set of questions, each labeled with the document that should answer it and the ground-truth fact.
 `python -m eval.run_eval` ingests the corpus, runs every question, and reports:
 
 - **recall@k** is whether the correct document was retrieved in the top k.
